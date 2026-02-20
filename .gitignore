@@ -43,3 +43,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# App URL config (Do not share on GitHub)
+
+lib/utils/app_url.dart
